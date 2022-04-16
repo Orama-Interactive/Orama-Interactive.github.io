@@ -1,0 +1,9 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  title : "Support our vision"
+  content : "Right now we still are a team and not a company. But we want to expand our dream and work full time in what we love doing.That's where you come in! You can help us grow in numerous ways. The obvious ones are to be involved with our work and share it with the rest of your world, [join our discord server](https://discord.gg/36hfYS) to be involved with our ever-growing community or just try out our projects for yourself! If you wish to take it to an even higher level, the best you can do is [become a Patron](https://www.patreon.com/OramaInteractive). Alternatively, you can donate an amount of money at [our itch.io](https://orama-interactive.itch.io/) page or even directly donate an amount of money via [PayPal](https://www.paypal.com/paypalme/erevos). In any case, thank you for being here and reading this text, it means a lot to us!"
+  button:
+    enable : true
+    label : "Become a Patron"
+    link : "https://www.patreon.com/OramaInteractive"

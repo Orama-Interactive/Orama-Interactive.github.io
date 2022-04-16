@@ -1,0 +1,32 @@
+#################################### projects ###############################
+portfolio:
+  enable : true
+  title : Τα έργα μας
+  portfolio_item :
+    # portfolio item loop
+    - name : Technotribal
+      image : images/projects/technotribal.png
+      categories : ["παιχνίδια"]
+      content :  Το Technotribal είναι ένα 2D πάζλ-κουίζ παιχνίδι. Ένας επιστήμονας εκπαιδεύει ένα μοντέλο Τεχνητής Νοημοσύνης, το οποίο καταφέρνει με το να το συνδέσει με άτομα από άλλα σύμπαντα, τους παίκτες, των οποίων η δουλεία είναι να του προσφέρουν γνώση.
+      link : "https://orama-interactive.itch.io/technotribal"
+      
+    # portfolio item loop
+    - name : Re-Pairing
+      image : images/projects/repairing.png
+      categories : ["παιχνίδια"]
+      content : Tο Re-Pairing είναι ένα 2D παιχνίδι πλατφόρμας, φτιαγμένο εντός 48 ωρών για το Global Game Jam 2020. Διαδραματίζεται σε έναν μετά-αποκαλυπτικό κόσμο, οπού ο παίκτης είναι ένα  φθαρμένο ρομπότ που βρίσκει τα χαμένα κομμάτια του, επισκευάζοντας έτσι τον εαυτό του. Ωστόσο η πραγματική επισκευή δεν είναι του ρομποτ, αλλά του ίδιου του κόσμου.
+      link : "https://orama-interactive.itch.io/re-pairing"
+
+    # portfolio item loop
+    - name : Where Hope Lies
+      image : images/projects/where_hope_lies.png
+      categories : ["παιχνίδια"]
+      content : Το Where Hope Lies είναι ένα μικρού μήκους VR παιχνίδι, βασισμένο σε μια εναλλακτική προσέγγιση στον αρχαιοελληνικό μύθο της Πανδώρας. Το παιχνίδι εστιάζει παραπάνω στην ανθρώπινη περιέργεια και σε όλα τα απίστευτα πράγματα που οι άνθρωποι έχουν καταφέρει βασισμένοι σε αυτή. Λύστε γρίφους, και αποφασίστε το μέλλον της ανθρωπότητας ανάλογα με τις δικές σας πράξεις.
+      link : "https://orama-interactive.itch.io/where-hope-lies"
+      
+    # portfolio item loop
+    - name : Pixelorama
+      image : images/projects/pixelorama_cover.png
+      categories : ["λογισμικό"]
+      content : Ο δικός σας δωρεάν και ανοιχτού κώδικα επεξεργαστής δισδιάστατων εικόνων, ιδανικό για pixel art.
+      link : "https://orama-interactive.itch.io/pixelorama"

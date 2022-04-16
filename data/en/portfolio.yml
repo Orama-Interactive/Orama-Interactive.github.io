@@ -1,0 +1,32 @@
+#################################### projects ###############################
+portfolio:
+  enable : true
+  title : Our Projects
+  portfolio_item :
+    # portfolio item loop
+    - name : Technotribal
+      image : images/projects/technotribal.png
+      categories : ["games"]
+      content : Technotribal is a 2D retro puzzle-quiz game. A scientist is training an Artificial Intelligence model, which he achieves by linking it with beings from other universes, the players, whose job is to feed it with knowledge.
+      link : "https://orama-interactive.itch.io/technotribal"
+      
+    # portfolio item loop
+    - name : Re-Pairing
+      image : images/projects/repairing.png
+      categories : ["games"]
+      content : Re-Pairing is a 2D platform game made in 48 hours for Global Game Jam 2020. Set during a post apocalyptic world, the player is a robot that is damaged and finds its parts, therefore "repairing" itself. But the real repair isn't about the robot, but the actual world.
+      link : "https://orama-interactive.itch.io/re-pairing"
+
+    # portfolio item loop
+    - name : Where Hope Lies
+      image : images/projects/where_hope_lies.png
+      categories : ["games"]
+      content : Where Hope Lies is a short VR game based on a different take of the Ancient Greek legend of Pandora. The game focuses on human curiosity and all the amazing things humans achieved thanks to it. Solve puzzles, and choose humanity's future based on YOUR actions!
+      link : "https://orama-interactive.itch.io/where-hope-lies"
+      
+    # portfolio item loop
+    - name : Pixelorama
+      image : images/projects/pixelorama_cover.png
+      categories : ["software"]
+      content : Your free & open-source 2D sprite editor, ideal for pixel art.
+      link : "https://orama-interactive.itch.io/pixelorama"

@@ -1,0 +1,42 @@
+############################### team ############################
+team:
+  enable : true
+  title : Η ομάδα μας
+  team_member :
+    # team member loop
+    - name : Εμμανουήλ Παπαδέας (Overloaded)
+      image : images/team/overloaded.jpg
+      designation : Επικεφαλής προγραμματιστής
+      content : Είμαι ο συνιδρυτής και προγραμματιστής της Orama Interactive. Αγαπάω την επιστήμη, τη γνώση, τη τέχνη, τα παιχνίδια, τα ζώα, τα όνειρα, τη σοκολάτα, την αυτοματοποίηση, τα ρομπότ, τη ζωή, το σύμπαν. Είμαι σκεπτικός και ονειροπόλος, και η Orama είναι ένας τρόπος για εμένα να βγάλω τις σκέψεις μου και την δημιουργικότητά μου έξω στον κόσμο, και για να κάνω τα όνειρά μου πραγματικότητα.
+      social :
+        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+          link : "https://github.com/OverloadedOrama"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://twitter.com/OVLDD"
+
+    # team member loop
+    - name : Γιάννης Νικητάκης (Erevoid)
+      image : images/team/erevoid.jpg
+      designation : Καλλιτεχνικός διευθυντής
+      content : Είμαι ο Erevoid, συνιδρυτής της Orama Interactive, και ειδικεύομαι στην διεύθυνση τέχνης και στον σχεδιασμό παιχνιδιών και UI, UX. Ευχαριστιέμαι όλες τις μορφές τέχνης και θα προσπαθώ πάντα να μάθω παραπάνω περί αυτής, αν και είναι τραβηγμένη έννοια. Καθώς η τέχνη υπάρχει πάντου, αρκεί να τη προσέξεις.
+      social :
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "https://instagram.com/erevoid"
+
+    # team member loop
+    - name : Σολ Λουλουδάκη (Soliscital)
+      image : images/team/soliscital.jpg
+      designation : Καλλιτέχνης
+      content : Είμαι η Σολ, καλλιτέχνης και δημιουργός παιχνιδιών στην Orama Interactive. Ασχολούμαι κυρίως με 2D τέχνη και κινούμενα σχέδια, και θα με βρείτε να φτιάχνω κόσμους, χαρακτήρες, ιστορίες μαζί με την υπόλοιπη ομάδα μου. Ευχαριστίεμαι πολλά πράγματα, παιχνίδια, σειρές, βόλτες, ζωγραφική και γενικότερα δημιουργία, μόνο όμως αν είναι εμπειρίες που μπορώ να μοιραστώ με τους αγαπημένους μου. Έχω παραπάνω πλάκα με καφείνη στην οργανισμό μου.
+      social :
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "https://instagram.com/soliscital"
+
+    # team member loop
+    - name : Ωρίωνας Μπουραζάνης (Odnyrion)
+      image : images/team/odnyrion.jpg
+      designation : Καλλιτέχνης
+      content : Είμαι ο Ωρίωνας, γνωστός και ως Odnyrion, και έγινα μέλος στην Orama Interactive επειδή συνειδητοποίησα πως τα άτομα εκεί είχαν πολλά όνειρα και προσδοκίες και λογάριαζαν τις καρίερες τους ως δημιουργοί παιχνιδιών πολύ σοβαρά, που για εμένα αποτελεί μεγάλη έμπνευση και το βρίσκω όμορφο. Το κομμάτι μου στην Orama είναι να φτιάχνω τέχνη κόνσεπτ, καθώς δε ξέρω καθόλου από προγραμματισμό.
+      social :
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "https://instagram.com/odnyrion"

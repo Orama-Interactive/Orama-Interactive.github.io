@@ -1,0 +1,17 @@
+############################# About ###################################
+about:
+  enable : true
+  image : "images/starry_logo.png"
+  title : About Us
+  about_item :
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    title : We're Creative
+    content : Art for us is a way for us to express our ideas and concerns about this world. Through fiction and stories never been told before, we aim to educate and make a better world for the future generations. We try to make our games meaningful, so that the player finds out truths about our society, or even themselves!
+
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : We're Dreamers
+    content : We stand for a better world and we dream it every day. We do what we can to make our vision a reality, and we can't do it without you!
+
+  - icon : ti-heart # themify icon pack : https://themify.me/themify-icons
+    title : We're Open
+    content : We develop free and open-source software such as Pixelorama, so that everyone will be able to use them without economic restrictions, without discrimination, without borders. We also support other free & open source software such as Godot, Blender, GIMP and Krita, so that more of their kind get created in the future and as a means to prove that you can create quality content with free tools!

@@ -1,0 +1,23 @@
+#################################### artstation ###############################
+artstation:
+  enable : true
+  title : Pixelorama Artstation
+  portfolio_item :
+    - name : Art for the v0.9 showcase video
+      image : images/pixelorama-artstation/showcase_landscape_v09.png
+      categories : ["video showcase art"]
+      content : Made by Erevoid for the v0.9 showcase video.
+      link : "https://www.youtube.com/watch?v=sM1v5uaBSrM"
+      
+    - name : Art for the v0.7 showcase video
+      #image : images/portfolio/portfolio-2.jpg
+      image : images/pixelorama-artstation/version_07_showcase.gif
+      categories : ["video showcase art"]
+      content : Made by Erevoid for the v0.7 showcase video.
+      link : "https://www.youtube.com/watch?v=NLb0TNxZ27E"
+
+    - name : Pixelorama v0.5 splash screen
+      image : images/pixelorama-artstation/nice_sky.png
+      categories : ["splash screens"]
+      content : Made by Erevoid for Pixelorama v0.5's splash screen.
+      link : "#"

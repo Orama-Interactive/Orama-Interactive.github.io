@@ -1,0 +1,28 @@
+- id: blogTitle
+  translation: Τελευταίες δημοσιεύσεις
+- id: readMore
+  translation: Διαβάστε περισσότερα
+- id: viewAllPost
+  translation: Προβολή όλων των δημοσιεύσεων
+- id: share
+  translation: Κοινοποίηση
+- id: aboutAuthor
+  translation: Σχετικά με το συγγραφέα
+- id: authorsPosts
+  translation: Δημοσιεύσεις του συγγραφέα
+- id: all
+  translation: Όλα
+- id: about
+  translation: Σχετικά με εμάς
+- id: services
+  translation: Υπηρεσία
+- id: portfolio
+  translation: Έργα
+- id: team
+  translation: Ομάδα
+- id: pricing
+  translation: Τιμές
+- id: blog
+  translation: Blog
+- id: contact
+  translation: Επικοινωνία
