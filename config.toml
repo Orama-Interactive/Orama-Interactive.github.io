@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = ""
+baseURL = "https://orama-interactive.github.io/"
 title = "Orama Interactive"
 theme = "meghna-hugo"
 # post pagination
