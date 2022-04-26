@@ -18,6 +18,8 @@ link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
 [[params.plugins.css]]
+link = "plugins/fontawesome-free-6.0.0-web/all.min.css"
+[[params.plugins.css]]
 link = "plugins/magnific-popup/magnific-popup.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
@@ -110,29 +112,38 @@ enable = false
 expire_days = 2
 
 
-############################# social icons ##########################
+############################# Social icons ##########################
+# Font Awesome icon pack: https://fontawesome.com/icons
 [[params.social]]
-icon = "ti-email" # themify icon pack : https://themify.me/themify-icons
+icon = "fa-regular fa-envelope"
 link = "mailto:oramagamestudios@gmail.com"
 
 [[params.social]]
-icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-link = "https://www.facebook.com/orama.interactive/"
+icon = "fa-brands fa-itch-io"
+link = "https://orama-interactive.itch.io/"
 
 [[params.social]]
-icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-link = "https://twitter.com/OramaInteractiv"
+icon = "fa-brands fa-mastodon"
+link = "https://mastodon.gamedev.place/@OramaInteractive"
 
 [[params.social]]
-icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
-link = "https://www.youtube.com/c/OramaInteractive"
-
-[[params.social]]
-icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
+icon = "fa-brands fa-github"
 link = "https://github.com/Orama-Interactive"
 
 [[params.social]]
-icon = "ti-instagram" # themify icon pack : https://themify.me/themify-icons
+icon = "fa-brands fa-youtube"
+link = "https://www.youtube.com/c/OramaInteractive"
+
+[[params.social]]
+icon = "fa-brands fa-twitter"
+link = "https://twitter.com/OramaInteractiv"
+
+[[params.social]]
+icon = "fa-brands fa-facebook"
+link = "https://www.facebook.com/orama.interactive/"
+
+[[params.social]]
+icon = "fa-brands fa-instagram"
 link = "https://www.instagram.com/orama_interactive/"
 
 
