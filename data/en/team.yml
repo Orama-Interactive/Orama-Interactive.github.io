@@ -9,9 +9,11 @@ team:
       designation : Lead Programmer
       content : I am a co-founder and programmer of Orama Interactive. I love science and learning, games, art, animals, dreams, chocolate, automation, robots, life, the Universe. I am a thinker and a dreamer, and Orama is a way to get my thoughts and creativity out to the world, and to make my dreams a reality.
       social :
-        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+        - icon : "fa-brands fa-github"
           link : "https://github.com/OverloadedOrama"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+        - icon : "fa-brands fa-mastodon"
+          link : "https://mastodon.social/@Overloaded"
+        - icon : "fa-brands fa-twitter"
           link : "https://twitter.com/OVLDD"
 
     # team member loop
@@ -20,7 +22,7 @@ team:
       designation : Art Director
       content : I am Erevoid, co-founder of Orama Interactive and I specialise in Art Direction, Game and UI/UX Design. I enjoy art in its many forms and variations and will always try to learn more and more regarding it, even if it's a stretch of the definition. For art can be found everywhere, you just need to notice it.
       social :
-        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+        - icon : "fa-brands fa-instagram"
           link : "https://instagram.com/erevoid"
 
     # team member loop
@@ -29,7 +31,7 @@ team:
       designation : Artist
       content : I am Sol, an artist and developer in Orama Interactive. I mostly do 2D Art and Animation, and you'll find me creating worlds, characters, stories along with the rest of my team. I enjoy lots of things, games, series, walks, developing, drawing, but only if they're experiences I can share with my loved ones. I'm extra fun when caffeinated properly.
       social :
-        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+        - icon : "fa-brands fa-instagram"
           link : "https://instagram.com/soliscital"
 
     # team member loop
@@ -38,5 +40,5 @@ team:
       designation : Artist
       content : I'm Orion, commonly known as Odnyrion and I joined Orama Interactive because I realized that the people there had a lot of dreams and had taken their career as game developers very seriously, which to me is really inspiring and beautiful. My part in Orama is making concept arts since I have no idea how to program.
       social :
-        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+        - icon : "fa-brands fa-instagram"
           link : "https://instagram.com/odnyrion"
