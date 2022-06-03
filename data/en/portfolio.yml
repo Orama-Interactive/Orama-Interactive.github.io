@@ -30,3 +30,10 @@ portfolio:
       categories : ["software"]
       content : Your free & open-source 2D sprite editor, ideal for pixel art.
       link : "https://orama-interactive.itch.io/pixelorama"
+
+   # portfolio item loop
+    - name : Keychain
+      image : images/projects/keychain.png
+      categories : ["godot plugins"]
+      content : Keychain is a plugin for the Godot Engine that aims to give the player full control over the input actions (controls) of the games Keychain is being used.
+      link : "https://github.com/Orama-Interactive/Keychain"

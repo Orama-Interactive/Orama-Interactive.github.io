@@ -30,3 +30,10 @@ portfolio:
       categories : ["λογισμικό"]
       content : Ο δικός σας δωρεάν και ανοιχτού κώδικα επεξεργαστής δισδιάστατων εικόνων, ιδανικό για pixel art.
       link : "https://orama-interactive.itch.io/pixelorama"
+
+    # portfolio item loop
+    - name : Keychain
+      image : images/projects/keychain.png
+      categories : ["godot plugins"]
+      content : Το Keychain είναι ένα πρόσθετο για το Godot Engine όπου δίνει την ελευθερία στους παίκτες να κάνουν τροποποίησεις στα input actions (ελέγχους) των παιχνιδιών τα οποία χρησιμοποιούν το Keychain.
+      link : "https://github.com/Orama-Interactive/Keychain"
