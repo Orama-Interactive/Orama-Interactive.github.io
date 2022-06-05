@@ -35,5 +35,5 @@ portfolio:
     - name : Keychain
       image : images/projects/keychain.png
       categories : ["godot plugins"]
-      content : Keychain is a plugin for the Godot Engine that aims to give the player full control over the input actions (controls) of the games Keychain is being used.
+      content : Keychain is a plugin for the Godot Engine that aims to give the player full control over the input actions (controls) of the games it is being used.
       link : "https://github.com/Orama-Interactive/Keychain"
