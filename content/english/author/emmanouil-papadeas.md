@@ -2,10 +2,12 @@
 title: "Emmanouil Papadeas"
 image: "images/team/overloaded_small.png"
 social:
-  - icon : "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-    link : "https://twitter.com/OVLDD"
-  - icon : "ti-github" # themify icon pack : https://themify.me/themify-icons
+  - icon : "fa-brands fa-github"
     link : "https://github.com/OverloadedOrama"
+  - icon : "fa-brands fa-mastodon"
+    link : "https://mastodon.social/@Overloaded"
+  - icon : "fa-brands fa-twitter"
+    link : "https://twitter.com/OVLDD"
 ---
 
 I am a co-founder and lead developer of Orama Interactive, an indie game (and software, apparently) development team. I love science and learning, games, art, animals, dreams, chocolate, automation, robots, life, the Universe. I do not love coffee, coffee is overrated. We're currently just a group of friends who dream of one day making Orama an actual company, and create content for a living.
