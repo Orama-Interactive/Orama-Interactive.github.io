@@ -8,7 +8,7 @@ Artwork by [Wishdream](https://twitter.com/WishdreamStar), one of the artists fo
 
 We have amazing news for you! A new version of Pixelorama is releasing today, version 0.10.1, with some awesome new features and various changes. Along with that, we are also announcing **Voxelorama**, an extension for Pixelorama that converts your pixel art into voxel art. For more information on that, you can [read this blog post](../announcing-voxelorama).
 
-If you wish to support us, you can [become a Patron](https://www.patreon.com/OramaInteractive) and receive exclusive awards, or [buy Pixelorama from itch.io](https://orama-interactive.itch.io/pixelorama)! Happy painting, and keep pixelating your dreams.
+If you wish to support us, you can [become a Patron](https://www.patreon.com/OramaInteractive) and receive exclusive awards, or [buy Pixelorama from itch.io](https://orama-interactive.itch.io/pixelorama)!
 
 The changes that have arrived in v0.10.1 include:
 ### Added
@@ -46,6 +46,6 @@ The changes that have arrived in v0.10.1 include:
 ![Screenshot from Pixelorama's new gradient system](../../images/blog/pixelorama-0.10.1-is-out/gradients.png)
 Screenshot from Pixelorama's new gradient system
 
-Thank you all for taking the time to read this blog post and for supporting us. We appreciate every and each one of you, with special thanks to our contributors, our translators and our [patrons](https://www.patreon.com/OramaInteractive)!
+Thank you all for taking the time to read this blog post and for supporting us. We appreciate every and each one of you, with special thanks to our contributors, our translators and our [patrons](https://www.patreon.com/OramaInteractive)! Happy painting, and keep pixelating your dreams.
 
 Pixelorama is available on [GitHub](https://github.com/Orama-Interactive/Pixelorama) and [Itch.io](https://orama-interactive.itch.io/pixelorama)!
