@@ -12,7 +12,7 @@ First of all, we are releasing a new version of Pixelorama, 0.10.2. While it's n
 
 Before we get to the second present, we would just like to remind you that if you wish to support us, you can [become a Patron](https://www.patreon.com/OramaInteractive) and receive exclusive awards, or [buy Pixelorama from itch.io](https://orama-interactive.itch.io/pixelorama)!
 
-As for the second present... We have kept our promise, and we have finally open sourced Voxelorama! This means that it is now available for free for all of you, it is licensed under the MIT license, the same license as Pixelorama's. The project's code is [available on GitHub](https://github.com/Orama-Interactive/VoxeloramaExtension). Please note that Voxelorama is still in Early Access and is not recommended for production yet. Feedback and contributions are welcome, of course!
+As for the second present... We have kept our promise, and we have finally open sourced Voxelorama! This means that it is now available for free for all of you, licensed under the MIT license, the same license as Pixelorama's. The project's code is [available on GitHub](https://github.com/Orama-Interactive/VoxeloramaExtension). Please note that Voxelorama is still in Early Access and is not recommended for production yet. Feedback and contributions are welcome, of course!
 
 The changes that have arrived in Pixelorama v0.10.2 include:
 ### Added
