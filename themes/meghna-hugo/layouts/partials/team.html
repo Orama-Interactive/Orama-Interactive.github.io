@@ -28,7 +28,7 @@
             <div class="mask">
               <ul class="list-inline">
                 {{ range .social }}
-                <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+                <li class="list-inline-item"><a rel="me" href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
                 {{ end }}
               </ul>
             </div>
