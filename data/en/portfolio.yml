@@ -9,6 +9,13 @@ portfolio:
       categories : ["games"]
       content : Technotribal is a 2D retro puzzle-quiz game. A scientist is training an Artificial Intelligence model, which he achieves by linking it with beings from other universes, the players, whose job is to feed it with knowledge.
       link : "https://orama-interactive.itch.io/technotribal"
+
+    # portfolio item loop
+    - name : The Roots Of All Our Problems
+      image : images/projects/troaop.png
+      categories : ["games"]
+      content : A fun narrative platformer, where the player controls a helicopter seed that is searching for a place to grow roots.
+      link : "https://orama-interactive.itch.io/the-roots-of-all-our-problems"
       
     # portfolio item loop
     - name : Re-Pairing

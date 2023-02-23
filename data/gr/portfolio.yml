@@ -9,6 +9,13 @@ portfolio:
       categories : ["παιχνίδια"]
       content :  Το Technotribal είναι ένα 2D πάζλ-κουίζ παιχνίδι. Ένας επιστήμονας εκπαιδεύει ένα μοντέλο Τεχνητής Νοημοσύνης, το οποίο καταφέρνει με το να το συνδέσει με άτομα από άλλα σύμπαντα, τους παίκτες, των οποίων η δουλεία είναι να του προσφέρουν γνώση.
       link : "https://orama-interactive.itch.io/technotribal"
+
+    # portfolio item loop
+    - name : The Roots Of All Our Problems
+      image : images/projects/troaop.png
+      categories : ["παιχνίδια"]
+      content : Ένα διασκεδαστικό αφηγηματικό παιχνίδι πλατφόρμας, όπου ο παίκτης ελέγχει έναν σπόρο ελικοπτέρου που ψάχνει για ένα μέρος για να ριζώσει.
+      link : "https://orama-interactive.itch.io/the-roots-of-all-our-problems"
       
     # portfolio item loop
     - name : Re-Pairing
