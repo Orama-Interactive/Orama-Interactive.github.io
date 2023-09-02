@@ -20,7 +20,7 @@ The changes that have arrived in Pixelorama v0.10.2 include:
 - A new rotation type, Rotxel with smear. Thanks to [azagaya](https://github.com/azagaya) for the shader code.
 - The pivot in the rotate image dialog can now be changed by the user. [#720](https://github.com/Orama-Interactive/Pixelorama/pull/720)
 - New offset options in tile mode that allow for non-rectangular tiling. [#707](https://github.com/Orama-Interactive/Pixelorama/pull/707)
-- A basic API for Extensions. Has not been documented yet and is stil experimental.
+- A basic API for Extensions. Has not been documented yet and is still experimental.
 - A similarity option in the Select by Color tool. [#710](https://github.com/Orama-Interactive/Pixelorama/pull/710)
 - The left and right tool colors in the background of the tool buttons and the indicators on the canvas can now be changed from the Preferences.
 - Added Danish translations.
