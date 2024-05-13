@@ -119,8 +119,16 @@ icon = "fa-regular fa-envelope"
 link = "mailto:oramagamestudios@gmail.com"
 
 [[params.social]]
+icon = "fa-brands fa-steam"
+link = "https://store.steampowered.com/developer/Orama Interactive"
+
+[[params.social]]
 icon = "fa-brands fa-itch-io"
 link = "https://orama-interactive.itch.io/"
+
+[[params.social]]
+icon = "fa-brands fa-patreon"
+link = "https://www.patreon.com/OramaInteractive"
 
 [[params.social]]
 icon = "fa-brands fa-mastodon"
