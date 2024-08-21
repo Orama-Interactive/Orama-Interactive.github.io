@@ -58,7 +58,7 @@ Pixelorama 1.0 introduced some breaking changes.
 - While user interface layouts are technically compatible between 0.x and 1.0 versions, it's recommended to remove the old layouts (if you have made any) and make them again in v1.0, as they may not appear correctly, due to the fact that v1.0 has new panels.
 
 ## Command Line Interface
-Pixelorama now has its own basic Command Line Interface, which allows you to to stuff such as exporting your projects, from the command line. This is very helpful for automating tasks.
+Pixelorama now has its own basic Command Line Interface, which allows you to do stuff such as exporting your projects, from the command line. This is very helpful for automating tasks.
 
 ## Full changelog:
 The changes described above are just the tip of the iceburg! There are so many more additions, improvements and fixes that are coming in version 1.0:
