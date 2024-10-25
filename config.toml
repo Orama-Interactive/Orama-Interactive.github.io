@@ -155,20 +155,21 @@ icon = "fa-brands fa-instagram"
 link = "https://www.instagram.com/orama_interactive/"
 
 
-################################ English Language ########################
-[Languages.en]
-languageName = "English"
-languageCode = "en-us"
-contentDir = "content/english"
-weight = 1
-home = "Home"
-copyright = "Copyright &copy; 2022 Theme by [Themefisher](https://themefisher.com) & Developed by Orama Interactive"
+[Languages]
+    [Languages.en]
+        languageName = "English"
+        languageCode = "en-us"
+        contentDir = "content/english"
+        [Languages.en.params]
+            weight = 1
+            home = "Home"
+            copyright = "Copyright &copy; 2022 Theme by [Themefisher](https://themefisher.com) & Developed by Orama Interactive"
 
-################################ France Language ########################
-[Languages.gr]
-languageName = "Greek"
-languageCode = "gr-el"
-contentDir = "content/greek"
-weight = 2
-home = "Αρχική"
-copyright = "Copyright &copy; 2022 Θέμα από [Themefisher](https://themefisher.com) & Ιστοσελίδα φτιαγμένη από την Orama Interactive"
+    [Languages.gr]
+        languageName = "Greek"
+        languageCode = "gr-el"
+        contentDir = "content/greek"
+        [Languages.gr.params]
+            weight = 2
+            home = "Αρχική"
+            copyright = "Copyright &copy; 2022 Θέμα από [Themefisher](https://themefisher.com) & Ιστοσελίδα φτιαγμένη από την Orama Interactive"
