@@ -18,7 +18,7 @@ link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
 [[params.plugins.css]]
-link = "plugins/fontawesome-free-6.0.0-web/all.min.css"
+link = "plugins/fontawesome-free-6.6.0-web/all.min.css"
 [[params.plugins.css]]
 link = "plugins/magnific-popup/magnific-popup.css"
 [[params.plugins.css]]
@@ -137,6 +137,10 @@ link = "https://mastodon.gamedev.place/@OramaInteractive"
 [[params.social]]
 icon = "fa-brands fa-github"
 link = "https://github.com/Orama-Interactive"
+
+[[params.social]]
+icon = "fa-brands fa-bluesky"
+link = "https://bsky.app/profile/oramainteractive.bsky.social"
 
 [[params.social]]
 icon = "fa-brands fa-youtube"
