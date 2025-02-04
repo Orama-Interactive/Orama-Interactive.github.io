@@ -147,10 +147,6 @@ icon = "fa-brands fa-youtube"
 link = "https://www.youtube.com/c/OramaInteractive"
 
 [[params.social]]
-icon = "fa-brands fa-twitter"
-link = "https://twitter.com/OramaInteractiv"
-
-[[params.social]]
 icon = "fa-brands fa-facebook"
 link = "https://www.facebook.com/orama.interactive/"
 
