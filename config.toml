@@ -173,3 +173,7 @@ link = "https://www.instagram.com/orama_interactive/"
             weight = 2
             home = "Αρχική"
             copyright = "Copyright &copy; 2022 Θέμα από [Themefisher](https://themefisher.com) & Ιστοσελίδα φτιαγμένη από την Orama Interactive"
+
+[markup]
+    [markup.goldmark.renderer]
+      unsafe = true
