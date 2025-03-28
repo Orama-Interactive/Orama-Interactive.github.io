@@ -2,8 +2,6 @@
 baseURL = "https://www.oramainteractive.com/"
 title = "Orama Interactive"
 theme = "meghna-hugo"
-# post pagination
-paginate = "6"
 # post excerpt
 summaryLength = "15"
 # disqus short name
@@ -177,3 +175,6 @@ link = "https://www.instagram.com/orama_interactive/"
 [markup]
     [markup.goldmark.renderer]
       unsafe = true
+
+[pagination]
+  pagerSize = 6
