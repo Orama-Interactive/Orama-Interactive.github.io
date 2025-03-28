@@ -1,6 +1,6 @@
 ---
 title: "Pixelorama v1.0 is finally out!"
-date: 2024-04-29T17:00:00+03:00
+date: 2024-07-29T17:00:00+03:00
 author: Emmanouil Papadeas
 image: images/blog/pixelorama-1.0-is-out/main.png
 ---
